@@ -66,7 +66,7 @@ And of course Dillinger itself is open source with a [public repository][dill]
  on GitHub.
 
 ### Installation
-![Ilos](https://lh3.googleusercontent.com/proxy/DDV8a7sLIWurhJtW8Ego9bq-JlwpfFFoR0tkLJQKKYXEXoWHB6ZUP5jGKD2VcYt3z1QVsgcn6L3GoU1ns8m9fvi3U51GzddA70ZUMHgzHvjl4-i7YOJY9cShBPrfjUhMQhxaJ97WFBp612XmjMXVGypfGkiBarN4PWxhiHkiYYNW7HGbtTpOcyt9GQ4Q23C2noxLTWFXZMcQZhRpQA_qzu2n6_H6CPViBnhSHpEl4JZAPaGCSJqgZg)
+![Ilos](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmasseffect.clan.su%2Fforum%2F14-89-1&psig=AOvVaw1V5FRnxObDsZU_75JVOc0y&ust=1593258480578000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjT9ca0n-oCFQAAAAAdAAAAABAF)
 
 Dillinger requires [Node.js](https://nodejs.org/) v4+ to run.
 
